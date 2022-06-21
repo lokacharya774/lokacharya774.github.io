@@ -1,0 +1,21 @@
+*{
+    background-color: aquamarine;
+}
+
+
+
+nav {
+  display: flex;
+  margin-left: 30%;
+  width: auto;
+  justify-content: space-evenly;
+  background-color:aquamarine;
+  color:peru;
+}
+
+img {
+  width: 300px;
+  margin-left: 0rem;
+  margin-bottom: 100px;
+}
+
